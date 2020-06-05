@@ -1,0 +1,3 @@
+com\wd\search\service\impl\ItemSearchServiceImpl.class
+com\wd\search\service\impl\itemDeleteListener.class
+com\wd\search\service\impl\ItemSearchListener.class
