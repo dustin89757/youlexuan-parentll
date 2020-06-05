@@ -1,0 +1,7 @@
+com\youlexuan\service\UserDetailsServiceImpl.class
+com\wd\shop\controller\LoginController.class
+com\wd\shop\controller\TypeTemplateController.class
+com\wd\shop\controller\ItemCatController.class
+com\wd\shop\controller\GoodsController.class
+com\wd\shop\controller\UploadController.class
+com\wd\shop\controller\SellerController.class
